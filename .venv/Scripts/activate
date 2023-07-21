@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Avk\Bureau\Cours\info\unyc_test_technique\.venv"
+VIRTUAL_ENV="D:\Avk\Bureau\Cours\info\learning_django\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
